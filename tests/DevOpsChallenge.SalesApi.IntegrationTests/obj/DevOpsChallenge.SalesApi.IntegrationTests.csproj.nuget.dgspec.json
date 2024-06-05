@@ -1,0 +1,311 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Personal\\Swivel\\bitbucket\\sw_test\\tests\\DevOpsChallenge.SalesApi.IntegrationTests\\DevOpsChallenge.SalesApi.IntegrationTests.csproj": {}
+  },
+  "projects": {
+    "D:\\Personal\\Swivel\\bitbucket\\sw_test\\src\\DevOpsChallenge.SalesApi.Business\\DevOpsChallenge.SalesApi.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal\\Swivel\\bitbucket\\sw_test\\src\\DevOpsChallenge.SalesApi.Business\\DevOpsChallenge.SalesApi.Business.csproj",
+        "projectName": "DevOpsChallenge.SalesApi.Business",
+        "projectPath": "D:\\Personal\\Swivel\\bitbucket\\sw_test\\src\\DevOpsChallenge.SalesApi.Business\\DevOpsChallenge.SalesApi.Business.csproj",
+        "packagesPath": "C:\\Users\\Madusanka_105829\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\Swivel\\bitbucket\\sw_test\\src\\DevOpsChallenge.SalesApi.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Madusanka_105829\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Personal\\Swivel\\bitbucket\\sw_test\\src\\DevOpsChallenge.SalesApi.Database\\DevOpsChallenge.SalesApi.Database.csproj": {
+                "projectPath": "D:\\Personal\\Swivel\\bitbucket\\sw_test\\src\\DevOpsChallenge.SalesApi.Database\\DevOpsChallenge.SalesApi.Database.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Ensure.That": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Personal\\Swivel\\bitbucket\\sw_test\\src\\DevOpsChallenge.SalesApi.Database\\DevOpsChallenge.SalesApi.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal\\Swivel\\bitbucket\\sw_test\\src\\DevOpsChallenge.SalesApi.Database\\DevOpsChallenge.SalesApi.Database.csproj",
+        "projectName": "DevOpsChallenge.SalesApi.Database",
+        "projectPath": "D:\\Personal\\Swivel\\bitbucket\\sw_test\\src\\DevOpsChallenge.SalesApi.Database\\DevOpsChallenge.SalesApi.Database.csproj",
+        "packagesPath": "C:\\Users\\Madusanka_105829\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\Swivel\\bitbucket\\sw_test\\src\\DevOpsChallenge.SalesApi.Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Madusanka_105829\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Personal\\Swivel\\bitbucket\\sw_test\\src\\DevOpsChallenge.SalesApi\\DevOpsChallenge.SalesApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal\\Swivel\\bitbucket\\sw_test\\src\\DevOpsChallenge.SalesApi\\DevOpsChallenge.SalesApi.csproj",
+        "projectName": "DevOpsChallenge.SalesApi",
+        "projectPath": "D:\\Personal\\Swivel\\bitbucket\\sw_test\\src\\DevOpsChallenge.SalesApi\\DevOpsChallenge.SalesApi.csproj",
+        "packagesPath": "C:\\Users\\Madusanka_105829\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\Swivel\\bitbucket\\sw_test\\src\\DevOpsChallenge.SalesApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Madusanka_105829\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Personal\\Swivel\\bitbucket\\sw_test\\src\\DevOpsChallenge.SalesApi.Business\\DevOpsChallenge.SalesApi.Business.csproj": {
+                "projectPath": "D:\\Personal\\Swivel\\bitbucket\\sw_test\\src\\DevOpsChallenge.SalesApi.Business\\DevOpsChallenge.SalesApi.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Personal\\Swivel\\bitbucket\\sw_test\\tests\\DevOpsChallenge.SalesApi.IntegrationTests\\DevOpsChallenge.SalesApi.IntegrationTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal\\Swivel\\bitbucket\\sw_test\\tests\\DevOpsChallenge.SalesApi.IntegrationTests\\DevOpsChallenge.SalesApi.IntegrationTests.csproj",
+        "projectName": "DevOpsChallenge.SalesApi.IntegrationTests",
+        "projectPath": "D:\\Personal\\Swivel\\bitbucket\\sw_test\\tests\\DevOpsChallenge.SalesApi.IntegrationTests\\DevOpsChallenge.SalesApi.IntegrationTests.csproj",
+        "packagesPath": "C:\\Users\\Madusanka_105829\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\Swivel\\bitbucket\\sw_test\\tests\\DevOpsChallenge.SalesApi.IntegrationTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Madusanka_105829\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Personal\\Swivel\\bitbucket\\sw_test\\src\\DevOpsChallenge.SalesApi\\DevOpsChallenge.SalesApi.csproj": {
+                "projectPath": "D:\\Personal\\Swivel\\bitbucket\\sw_test\\src\\DevOpsChallenge.SalesApi\\DevOpsChallenge.SalesApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

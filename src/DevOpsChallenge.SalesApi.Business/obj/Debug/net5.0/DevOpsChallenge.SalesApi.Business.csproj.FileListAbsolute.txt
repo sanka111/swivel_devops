@@ -1,0 +1,16 @@
+D:\Personal\Swivel\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\bin\Debug\net5.0\DevOpsChallenge.SalesApi.Business.deps.json
+D:\Personal\Swivel\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\bin\Debug\net5.0\DevOpsChallenge.SalesApi.Business.dll
+D:\Personal\Swivel\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\bin\Debug\net5.0\DevOpsChallenge.SalesApi.Business.pdb
+D:\Personal\Swivel\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\bin\Debug\net5.0\DevOpsChallenge.SalesApi.Database.dll
+D:\Personal\Swivel\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\bin\Debug\net5.0\DevOpsChallenge.SalesApi.Database.pdb
+D:\Personal\Swivel\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\obj\Debug\net5.0\DevOpsChallenge.SalesApi.Business.csproj.AssemblyReference.cache
+D:\Personal\Swivel\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\obj\Debug\net5.0\DevOpsChallenge.SalesApi.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Swivel\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\obj\Debug\net5.0\DevOpsChallenge.SalesApi.Business.AssemblyInfoInputs.cache
+D:\Personal\Swivel\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\obj\Debug\net5.0\DevOpsChallenge.SalesApi.Business.AssemblyInfo.cs
+D:\Personal\Swivel\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\obj\Debug\net5.0\DevOpsChallenge.SalesApi.Business.csproj.CoreCompileInputs.cache
+D:\Personal\Swivel\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\obj\Debug\net5.0\DevOpsChallenge.SalesApi.Business.sourcelink.json
+D:\Personal\Swivel\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\obj\Debug\net5.0\DevOpsCh.434BB083.Up2Date
+D:\Personal\Swivel\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\obj\Debug\net5.0\DevOpsChallenge.SalesApi.Business.dll
+D:\Personal\Swivel\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\obj\Debug\net5.0\refint\DevOpsChallenge.SalesApi.Business.dll
+D:\Personal\Swivel\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\obj\Debug\net5.0\DevOpsChallenge.SalesApi.Business.pdb
+D:\Personal\Swivel\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\obj\Debug\net5.0\ref\DevOpsChallenge.SalesApi.Business.dll
